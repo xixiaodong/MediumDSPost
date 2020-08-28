@@ -7,6 +7,7 @@ Stack Overflow survey 2020 has given us many useful data about its user base. In
 ## Files
 
 Data is contained in developer_survey_2020 folder
+
 Run Main.ipynb to visualise the plots
 
 ---
